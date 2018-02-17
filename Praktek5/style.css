@@ -1,0 +1,28 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-position: right top;
+}
+h1,h2{
+    color: #B93D3D;
+}
+h5 {
+    font-family: Arial;
+    color: #dc143c;
+}
+.page {
+    border: 1px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-top: 10px;
+    width : 600px;
+    opacity: 0.5;
+    background-color: #ffffff;
+    margin: 50px 0px 0px 10px;
+}
+.isi {
+    border: 1px;
+    width: 400px;
+    padding-left: 80px;
+    background-color: #ffffff;
+    margin: 10px 0px 0px 80px
+}
